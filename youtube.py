@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 import sqlalchemy as db
 import pandas as pd
 
-# Replace with your API key
+#API
 API_KEY = 'YOUR_API_KEY'
 
 # Create a service object
