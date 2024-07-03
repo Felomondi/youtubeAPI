@@ -1,4 +1,4 @@
-#check python style
+#check styling for python code 
 
 name: Check Style
 on: push
